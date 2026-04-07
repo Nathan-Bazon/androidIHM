@@ -13,4 +13,18 @@
     <string name="characterlist">characterList</string>
     <string name="data">data</string>
     <string name="filtervalue">filterValue</string>
+
+    <string-array name="characters">
+        <item>prof</item>
+        <item>abomasnow</item>
+        <item>abra</item>
+        <item>absol</item>
+        <item>accelgor</item>
+        <item>aegislash</item>
+        <item>aerodactyl</item>
+        <item>aggron</item>
+        <item>aipom</item>
+        <item>alakazam</item>
+        <item>alcremie</item>
+    </string-array>
 </resources>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="characters">
+        <item>prof</item>
+        <item>abomasnow</item>
+        <item>abra</item>
+        <item>absol</item>
+        <item>accelgor</item>
+        <item>aegislash</item>
+        <item>aerodactyl</item>
+        <item>aggron</item>
+        <item>aipom</item>
+        <item>alakazam</item>
+        <item>alcremie</item>
+    </string-array>
+    <color name="beige">#EDE8D0</color>
+    <color name="black">#FF000000</color>
+    <color name="blue">#B9F3FA</color>
+    <color name="brown">#664228</color>
+    <color name="dark_blue">#0C6CCC</color>
+    <color name="gray">#DCDADA</color>
+    <color name="green">#008000</color>
+    <color name="indigo">#4b0082</color>
+    <color name="light_gray">#F0EEEE</color>
+    <color name="lime">#E1EB19</color>
+    <color name="orange">#E69E17</color>
+    <color name="pink">#E011B0</color>
+    <color name="purple">#5D39E4</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#971F0A</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <string name="MainFragment_content">this app automatically inflates by Android system because this Fragment is static</string>
+    <string name="Screen1Fragment_label">Main Fragment</string>
+    <string name="app_name">Fil rouge vide</string>
+    <string name="character">valorantCharacter</string>
+    <string name="characterlist">characterList</string>
+    <string name="content2">Je choisis ici les parsonnages que je veux afficher en fonction de leur note</string>
+    <string name="content6">awsome team</string>
+    <string name="data">data</string>
+    <string name="filtervalue">filterValue</string>
+    <string name="index">index</string>
+    <string name="language">french</string>
+    <string name="seekbarvalue">seekBarValue</string>
+    <string name="size">size</string>
+    <string name="tanquinstate">tanquinstate</string>
+    <style name="MenuImage" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerSize">10%</item>
+    </style>
+    <style name="RoundedImage" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="Theme.EvalPokemon" parent="Theme.Material3.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
